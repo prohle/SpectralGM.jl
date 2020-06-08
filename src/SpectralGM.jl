@@ -18,6 +18,6 @@ module SpectralGM
 
   include("Calculator.jl")
 
-  export test
+  export test, greet
 
 end
