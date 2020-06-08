@@ -1,1 +1,1 @@
-# SpectralGM
+# SpectralGM.jl
