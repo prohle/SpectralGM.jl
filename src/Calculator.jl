@@ -1,3 +1,3 @@
-function test()
-   print("hello world")
+function test(name)
+    print("hello world $(name)")
 end
