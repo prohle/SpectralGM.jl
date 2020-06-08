@@ -16,8 +16,10 @@ module SpectralGM
 
   using Plots
 
-  include("Calculator.jl")
+  include("cmg_precondition.jl")
+  export cmg_precondition, steiner_group
 
+  include("Calculator.jl")
   export test, greet
 
 end
